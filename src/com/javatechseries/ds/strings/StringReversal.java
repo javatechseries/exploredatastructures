@@ -2,7 +2,7 @@ package com.javatechseries.ds.strings;
 
 import java.util.Scanner;
 
-public class StringReversal1 {
+public class StringReversal {
 	
 	public static void main(String[] args)
 	{
