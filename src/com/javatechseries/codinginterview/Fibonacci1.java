@@ -1,4 +1,4 @@
-package com.practice.codinginterview;
+package com.javatechseries.codinginterview;
 
 import java.util.Scanner;
 

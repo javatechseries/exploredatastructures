@@ -12,7 +12,7 @@ public class StringReversal1 {
 		String originalString = scanner.next();
 		scanner.close();
 		
-		//reverseString(originalString);
+		reverseString(originalString);
 		
 		StringBuilder stringOne = new StringBuilder(originalString).reverse();
 		

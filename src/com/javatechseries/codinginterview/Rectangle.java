@@ -1,4 +1,4 @@
-package com.explore.ds.interviewquestions;
+package com.javatechseries.codinginterview;
 
 public class Rectangle {
 
